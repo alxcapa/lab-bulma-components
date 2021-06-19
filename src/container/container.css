@@ -1,0 +1,15 @@
+.container-custom {
+
+    inset: 0;
+    background: rgba(148,148,148,0.3);
+    position: absolute;
+    z-index: 999999999;
+    display: flex;
+}
+
+.container-custom .message {
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    
+}
